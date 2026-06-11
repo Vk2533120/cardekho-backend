@@ -1,0 +1,152 @@
+[
+    {
+      "id": 1,
+      "make": "Maruti Suzuki",
+      "model": "Alto K10",
+      "priceINR": 399000,
+      "budgetCategory": "budget",
+      "mileage": 24.7,
+      "safetyRating": 2,
+      "tags": ["budget", "city", "commute", "mileage"]
+    },
+    {
+      "id": 2,
+      "make": "Maruti Suzuki",
+      "model": "Swift",
+      "priceINR": 649000,
+      "budgetCategory": "budget",
+      "mileage": 25.75,
+      "safetyRating": 3,
+      "tags": ["budget", "city", "commute", "features", "mileage"]
+    },
+    {
+      "id": 3,
+      "make": "Tata",
+      "model": "Tiago",
+      "priceINR": 565000,
+      "budgetCategory": "budget",
+      "mileage": 19.0,
+      "safetyRating": 4,
+      "tags": ["budget", "city", "commute", "safety"]
+    },
+    {
+      "id": 4,
+      "make": "Tata",
+      "model": "Nexon",
+      "priceINR": 799000,
+      "budgetCategory": "midrange",
+      "mileage": 17.4,
+      "safetyRating": 5,
+      "tags": ["midrange", "family", "safety", "features"]
+    },
+    {
+      "id": 5,
+      "make": "Hyundai",
+      "model": "i20",
+      "priceINR": 704000,
+      "budgetCategory": "midrange",
+      "mileage": 16.0,
+      "safetyRating": 3,
+      "tags": ["midrange", "city", "commute", "features"]
+    },
+    {
+      "id": 6,
+      "make": "Maruti Suzuki",
+      "model": "Brezza",
+      "priceINR": 834000,
+      "budgetCategory": "midrange",
+      "mileage": 19.8,
+      "safetyRating": 4,
+      "tags": ["midrange", "family", "city", "mileage", "safety"]
+    },
+    {
+      "id": 7,
+      "make": "Mahindra",
+      "model": "XUV3XO",
+      "priceINR": 749000,
+      "budgetCategory": "midrange",
+      "mileage": 18.2,
+      "safetyRating": 5,
+      "tags": ["midrange", "family", "safety", "features"]
+    },
+    {
+      "id": 8,
+      "make": "Hyundai",
+      "model": "Creta",
+      "priceINR": 1100000,
+      "budgetCategory": "midrange",
+      "mileage": 16.8,
+      "safetyRating": 3,
+      "tags": ["midrange", "family", "features", "commute"]
+    },
+    {
+      "id": 9,
+      "make": "Kia",
+      "model": "Seltos",
+      "priceINR": 1090000,
+      "budgetCategory": "midrange",
+      "mileage": 17.0,
+      "safetyRating": 3,
+      "tags": ["midrange", "family", "features"]
+    },
+    {
+      "id": 10,
+      "make": "Mahindra",
+      "model": "Scorpio-N",
+      "priceINR": 1385000,
+      "budgetCategory": "midrange",
+      "mileage": 12.5,
+      "safetyRating": 5,
+      "tags": ["midrange", "family", "offroad", "adventure", "safety"]
+    },
+    {
+      "id": 11,
+      "make": "Mahindra",
+      "model": "Thar",
+      "priceINR": 1135000,
+      "budgetCategory": "midrange",
+      "mileage": 12.0,
+      "safetyRating": 4,
+      "tags": ["midrange", "offroad", "adventure"]
+    },
+    {
+      "id": 12,
+      "make": "Toyota",
+      "model": "Innova Hycross",
+      "priceINR": 1977000,
+      "budgetCategory": "premium",
+      "mileage": 23.24,
+      "safetyRating": 5,
+      "tags": ["premium", "family", "mileage", "features", "safety"]
+    },
+    {
+      "id": 13,
+      "make": "Mahindra",
+      "model": "XUV700",
+      "priceINR": 1399000,
+      "budgetCategory": "premium",
+      "mileage": 13.0,
+      "safetyRating": 5,
+      "tags": ["premium", "family", "features", "safety"]
+    },
+    {
+      "id": 14,
+      "make": "Tata",
+      "model": "Safari",
+      "priceINR": 1619000,
+      "budgetCategory": "premium",
+      "mileage": 14.5,
+      "safetyRating": 5,
+      "tags": ["premium", "family", "safety", "features", "adventure"]
+    },
+    {
+      "id": 15,
+      "make": "Jeep",
+      "model": "Compass",
+      "priceINR": 2069000,
+      "budgetCategory": "premium",
+      "mileage": 14.0,
+      "safetyRating": 5,
+      "tags": ["premium", "adventure", "offroad", "safety", "features"]
+    }
+  ]
