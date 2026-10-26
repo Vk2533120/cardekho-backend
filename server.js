@@ -4,21 +4,21 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const PORE = 5000;
+const POR = 5000;
 
 // Middleware
 app.use(cors());
 app.use(express.json());
 
 // Helper function to read local JSON data
-const getCarsData = () => {
+const getCarData = () => {
   const filePath = path.join(__dirname, 'data', 'cars.json');
   const rawData = fs.readFileSync(filePath, 'utf-8');
   return JSON.parse(rawData);
 };
 
 // Recommendation Engine POST Endpoint
-app.post('/api/recommend', (expressReq, expressRes) => {
+app.post('//recommend', (expressReq, expressRes) => {
   try {
     const { budget, useCase, priority } = expressReq.body;
 
