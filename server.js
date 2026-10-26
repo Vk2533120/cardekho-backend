@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const POR = 5000;
+const PORE = 5000;
 
 // Middleware
 app.use(cors());
